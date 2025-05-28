@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://OverX-System.dev/logo.png" width="120" alt="OverX Logo"/>
+  <img src="https://cdn.discordapp.com/attachments/1251177177685426310/1251177177958060153/we.png?ex=68386b0c&is=6837198c&hm=2b441249cfbb3d92ee7ab19adb55f1c6017c6ff56d5e53e6de69713c41a5f41a&" width="120" alt="OverX Logo"/>
 </p>
 
 # OverX-System 🛡️
